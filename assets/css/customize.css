@@ -1,0 +1,102 @@
+/* ============ CHANGE LOADING ANIMATION 
+1. Download gif here : https://icons8.com/preloaders/
+2. Put the image in assets/images/
+3. Change the name of the image from Preload_2.gif to the name of the gif you want
+============ */
+.se-pre-con {
+    background: url("../images/boarding.gif") center no-repeat #fff;
+}
+
+
+
+/* ============ CHANGE BACKGROUND COLOR ============ */
+body {
+    background-color: black;
+}
+
+/* ============ CHANGE FONT ============ */
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Orbitron:wght@400..900&display=swap');
+</style>
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+
+
+/* ============ CHANGE HEADER BACKGROUND-COLOR ============ */
+
+/* 
+MORE GRADIENT COLORS HERE : https://cssgradient.io/
+*/
+.hero-image {
+  background: #20d2e6;
+background: linear-gradient(90deg, rgba(32, 210, 230, 1) 0%, rgba(245, 15, 141, 1) 42%, rgba(20, 14, 18, 1) 80%);
+}
+
+/* ============ CHANGE HEADER TO IMAGE INSTEAD OF COLOR ============ */
+
+/* Remove this entire line to use an image instead of color
+
+.hero-image {
+    background-image: url("../images/hero.jpg");
+} 
+
+Remove this entire line to use an image instead of color   */
+
+
+/* ============ CHANGE HEADER TITLE COLOR ============ */
+
+.hero-text h1 {
+    color: ghostwhite;
+    font-size: 3rem;
+}
+
+/* ============ CHANGE HEADER BUTTON ============ */
+
+.hero-text a {
+    color: black;
+    background-color: deeppink;
+}
+
+.hero-text a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+/* ============ CHANGE CONTENT BACKGROUND-COLOR ============ */
+.content {
+    background-color:lavender;
+}
+
+/* ============ CHANGE SIDEBAR COLOR ============ */
+.sidebar {
+    background-color: hotpink;
+}
+
+/* ============ CHANGE SIDEBAR SECTION ============ */
+.sidebar-section {
+    background-color: white;
+}
+
+/* ============ CHANGE FOOTER ============ */
+.footer {
+    background-color: hotpink;
+}

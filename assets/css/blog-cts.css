@@ -1,0 +1,17 @@
+.cts-heading{
+	text-transform: uppercase;
+}
+.cts-image{
+	width:100%;
+}
+.cts-subheading{
+	color:orangered;
+	text-transform:uppercase ;
+	border-bottom: 2px solid burlywood;
+	font-size:;
+}
+.cts-text-highlight{
+	background-color: whitesmoke;
+	padding: 8px ;
+	border-left: 5px solid lightsteelblue;
+}
